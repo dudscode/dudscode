@@ -1,4 +1,4 @@
-# Eduarda Alves 👋
+# Eduarda Alves 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduarda%20Alves-081a28?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-alves-0b84ba178/)](https://www.linkedin.com/in/eduarda-alves-0b84ba178/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardaa9@gmail.com-081a28?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardaa9@gmail.com)](mailto:eduardaa9@gmail.com)
