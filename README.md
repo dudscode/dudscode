@@ -1,7 +1,6 @@
 # Eduarda Alves 🚀
-
-[![Linkedin Badge](https://img.shields.io/badge/-Eduarda%20Alves-081a28?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-alves-0b84ba178/)](https://www.linkedin.com/in/eduarda-alves-0b84ba178/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardaa9@gmail.com-081a28?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardaa9@gmail.com)](mailto:eduardaa9@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduarda-alves-0b84ba178/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_dudsalves/)
 
 ## Linguagens e Tecnologias que uso diariamente
 
