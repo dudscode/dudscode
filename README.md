@@ -30,4 +30,4 @@ Acredito no poder de compartilhar conhecimento e apoiar outras pessoas na jornad
 
 ---
 
-💬 *“Pequenas evoluções diárias geram grandes resultados.”*  
+🪴 Plantando a semente 🪴
